@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">This is a test.</Say>
+    <Pause length="1"/>
+    <Say voice="woman">Thank you for listening.</Say>
+</Response>
